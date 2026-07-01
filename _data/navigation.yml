@@ -5,5 +5,5 @@ pages:
   url: /
 - name: Publications
   url: /publications
-- name: CV
-  url: /CV
+- name: cv
+  url: /cv
